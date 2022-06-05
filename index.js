@@ -24,7 +24,7 @@ function populateList(plates = [], platesList) {
                     'checked' : ''} />
                 <label for="item${i}">${plate.text} </label>
             </li>
-        `; 
+        `;  
     }).join('');
 }
 
