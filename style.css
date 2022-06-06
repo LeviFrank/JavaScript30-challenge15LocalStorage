@@ -58,6 +58,7 @@ h2 {
     cursor: pointer;
 }
 
+/* the space means a descendant, .plates is a class */
 .plates input {
     display: none;
 }
