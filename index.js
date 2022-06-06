@@ -41,3 +41,5 @@ addItems.addEventListener('submit', addItem);
 itemsList.addEventListener('click', toggleDone);
 
 populateList(items, itemsList);
+
+/*  just noticed that checkboxes check perfectly well, but the real issue is UNCHECKING the checkboxes in one click  s*/
